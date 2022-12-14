@@ -1,0 +1,20 @@
+p, div {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+}
+
+.cooler#class {
+    font-size: 32px;
+}
+#id1 {
+    background-color: white;
+    font-size:36px;
+    color: blue;
+}
+
+#id2 {
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight: bold;
+}
